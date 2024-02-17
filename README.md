@@ -3,11 +3,15 @@
 ### Position: 
 Intern
 
-### Date: 
+### Year: 
 2021
 
 ## S-Market Laukaa
-Intern - 2023
+### Position: 
+Intern
+
+### Year: 
+2023
 
 # EDUCATION
 ## Primary School
