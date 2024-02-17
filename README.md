@@ -1,26 +1,24 @@
 # WORK EXPERIENCE
 ## Viacar Oy
-### Position: 
-Intern
+Position: Intern
 
-### Year: 
-2021
+Year: 2021
 
 ## S-Market Laukaa
-### Position: 
-Intern
+Position: Intern
 
-### Year: 
-2023
+Year: 2023
 
 # EDUCATION
 ## Primary School
 
-Laukaan Kirkonkylän Koulu - 2013-2019, Sydän-Laukaan koulu - 2019-2022
+1st - 6th Grade (2013-2019): Laukaan Kirkonkylän Koulu
+
+7th - 9th Grade (2019-2022): Sydän-Laukaan koulu
 
 ## Vocational School
 
-Gradia Viitaniemi, Application Programming Vocational Qualification - 2022-
+1st - 3rd Year (2022-): Gradia Viitaniemi, Application Programming Vocational Qualification
 
 # COURSES
 
@@ -28,10 +26,12 @@ Programming Online Course, Kodarit Kesä kurssi (https://kodarit.com/fi/) - 2021
 
 # LANGUAGE SKILLS
 ## Finnish 
-- Native
+- Native Language
 
 ## English 
-- Fluent Writing but troubled pronounciation
+- Fluent writing
+
+- Compenent pronounciation
 
 # WORK SAMPLES
 ## Project 1: 
