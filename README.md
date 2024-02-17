@@ -37,7 +37,7 @@ https://github.com/Larppaliz/TheNextWeapons
 
 # SKILLS
 ## Programming Languages: 
-JavaScript, C#, Java, HTML, Python
+C#, Java
 
 ## Tools: 
 Visual Studio
@@ -48,3 +48,6 @@ Lari Lievonen
 
 ## Email:
 lari.eero@gmail.com
+
+## Phone Nubmer:
+(+358) 0442443928
