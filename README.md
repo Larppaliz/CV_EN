@@ -22,8 +22,8 @@ Programming Online Course, Kodarit Kesä kurssi (https://kodarit.com/fi/) - 2021
 ## Finnish 
 - Native
 
-##English 
-- Fluent
+## English 
+- Fluent Writing but troubled pronounciation
 
 # WORK SAMPLES
 ## Project 1: 
