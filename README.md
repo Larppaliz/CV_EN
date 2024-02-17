@@ -1,6 +1,10 @@
 # WORK EXPERIENCE
 ## Viacar Oy
-Intern - 2021
+### Position: 
+Intern
+
+### Date: 
+2021
 
 ## S-Market Laukaa
 Intern - 2023
