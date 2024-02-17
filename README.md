@@ -35,10 +35,10 @@ Programming Online Course, Kodarit Kesä kurssi (https://kodarit.com/fi/) - 2021
 
 # WORK SAMPLES
 ## Project 1: 
-Terraria Mod
+Terraria Mod (TheNextWeapons)
 
 ## Description: 
-A mod for the game Terraria that I have created in my free time as a hobby
+A mod for the game Terraria that I have created in my free time as a hobby that adds some extra content to the game and needs Tmodloader to be used
 
 ## Link:
 https://github.com/Larppaliz/TheNextWeapons
@@ -58,4 +58,4 @@ Lari Lievonen
 lari.eero@gmail.com
 
 ## Phone Nubmer:
-(+358) 0442443928
+**(+358)** 0442443928
