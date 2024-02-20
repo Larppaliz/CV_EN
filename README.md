@@ -31,7 +31,7 @@ Programming Online Course, Kodarit Kesä kurssi (https://kodarit.com/fi/) - 2021
 ## English 
 - Fluent writing
 
-- Compenent pronounciation
+- Competent pronunciation
 
 # WORK SAMPLES
 ## Project 1: 
@@ -57,5 +57,5 @@ Lari Lievonen
 ## Email:
 lari.eero@gmail.com
 
-## Phone Nubmer:
+## Phone Number:
 **(+358)** 0442443928
